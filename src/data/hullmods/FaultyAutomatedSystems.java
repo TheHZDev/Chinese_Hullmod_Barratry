@@ -57,7 +57,7 @@ public class FaultyAutomatedSystems extends BaseHullMod {
     public String getUnapplicableReason(ShipAPI ship) {
         for (String tmp : BLOCKED_HULLMODS) {
             if (ship.getVariant().getHullMods().contains(tmp)) {
-                return ("Incompatible with currently applied hullmods");
+                return ("不与当前安装的其它船插兼容");
             }
         }
         return null;

@@ -62,6 +62,6 @@ public class PhaseCoilInstability2 extends BaseHullMod {
     }
 
     public String getUnapplicableReason(ShipAPI ship) {
-        return "Only applicable to phase ships";
+        return "只能安装在相位舰船上";
     }
 }

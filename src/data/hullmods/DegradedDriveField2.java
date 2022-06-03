@@ -63,7 +63,7 @@ public class DegradedDriveField2 extends BaseHullMod {
     }
 
     public String getUnapplicableReason(ShipAPI ship) {
-        return "Only applicable to civilian ships";
+        return "只可以安装在民用舰船上";
     }
 
 }

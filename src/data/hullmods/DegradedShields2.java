@@ -50,7 +50,7 @@ public class DegradedShields2 extends BaseHullMod {
     }
 
     public String getUnapplicableReason(ShipAPI ship) {
-        return "Ship has no shields";
+        return "舰船没有护盾";
     }
 
 }

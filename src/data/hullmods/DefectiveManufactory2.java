@@ -65,7 +65,7 @@ public class DefectiveManufactory2 extends BaseHullMod {
     }
 
     public String getUnapplicableReason(ShipAPI ship) {
-        return "Ship does not have fighter bays";
+        return "舰船没有飞行甲板";
     }
 
 }

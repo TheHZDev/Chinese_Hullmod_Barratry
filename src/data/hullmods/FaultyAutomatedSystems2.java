@@ -51,7 +51,7 @@ public class FaultyAutomatedSystems2 extends BaseHullMod {
     }
 
     public String getUnapplicableReason(ShipAPI ship) {
-        return "Ship has no crew";
+        return "无人舰船不能安装此船插";
     }
 
 }

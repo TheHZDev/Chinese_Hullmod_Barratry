@@ -1,9 +1,9 @@
 {
   "id": "hm_barratry",
-  "name": "Hullmod Barratry",
+  "name": "Hullmod Barratry 自由D插工厂",
   "author": "Nextia",
   "version": "2.0",
-  "description": "Adds D-Mod related content to abuse at your discretion",
+  "description": "增加了一些可自由组装的D插，请尽情滥用吧。",
   "gameVersion": "0.95.1a-RC6",
   "jars": [
     "jars/Hullmod_barratry.jar"

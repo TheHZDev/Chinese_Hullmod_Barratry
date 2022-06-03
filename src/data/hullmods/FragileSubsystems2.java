@@ -54,7 +54,7 @@ public class FragileSubsystems2 extends BaseHullMod {
     }
 
     public String getUnapplicableReason(ShipAPI ship) {
-        return "Ship does not suffer from CR degradation";
+        return "舰船的CR值永不下降";
     }
 }
 
